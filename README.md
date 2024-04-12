@@ -4,6 +4,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sungjiehung)
 
-### 1. [Swift Basics](src/basic.md)
+### 1. [Swift Basics](src/basic-swift.md)
+
+### 2. [Objective-C Basics](src/basic-objective-c.md)
 
 <!-- ### 2. [Swift Advanced](advanced.md) -->
